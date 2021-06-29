@@ -1,4 +1,4 @@
-echo "# NativeAppProject" >> README.md
+echo "# NativeAppProject" >> README.md 29/06/64
 
 git config --global user.email "bosszy7506@gmail.com"
 
